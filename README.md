@@ -18,5 +18,5 @@
 - MLOps y proyectos de ciencia de datos
 
 ## 📬 Conéctate conmigo
-[![LinkedIn](<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/6759cf54-068b-426a-8957-06f7b8feb97a" />)
+[![LinkedIn](https://www.linkedin.com/in/gabriel-canela-367a01154/)
 
