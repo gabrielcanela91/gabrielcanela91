@@ -6,7 +6,7 @@
 ## 🚀 Habilidades
 - 🔢 Python, SQL, DAX
 - 📊 Power BI, Streamlit,
-- 📚 Estadística, Machine Learning, Deep Learning = En Desarrollo
+- 📚 Estadística, 
 - 🛠️ Git, GitHub, Docker
 
 ## 📈 Estadísticas GitHub
@@ -16,6 +16,7 @@
 - Desarrollo web con Streamlit
 - Automatización de procesos con Power Automate
 - MLOps y proyectos de ciencia de datos
+- Machine Learning, Deep Learning
 
 ## 📬 Conéctate conmigo
 [LinkedIn](https://www.linkedin.com/in/gabriel-canela-367a01154/)
