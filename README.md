@@ -1,4 +1,4 @@
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/738e8a04-f68f-4d91-823a-03c32d653b52" /># ¡Hola! 👋 Soy Gabriel Canela
+¡Hola! 👋 Soy Gabriel Canela
 
 🎓 Psicólogo Industrial | 📊 Analista Sr. de Datos | 🤖 Apasionado por la Ciencia de Datos  
 🎯 En camino a convertirme en un maestro de la ciencia de datos y emprendedor exitoso
