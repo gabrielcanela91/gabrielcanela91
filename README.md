@@ -1,16 +1,22 @@
-## Hi there 👋
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/738e8a04-f68f-4d91-823a-03c32d653b52" /># ¡Hola! 👋 Soy Gabriel Canela
 
-<!--
-**gabrielcanela91/gabrielcanela91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Psicólogo Industrial | 📊 Analista Sr. de Datos | 🤖 Apasionado por la Ciencia de Datos  
+🎯 En camino a convertirme en un maestro de la ciencia de datos y emprendedor exitoso
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
+- 🔢 Python, SQL, DAX
+- 📊 Power BI, Streamlit,
+- 📚 Estadística, Machine Learning, Deep Learning = En Desarrollo
+- 🛠️ Git, GitHub, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Estadísticas GitHub
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielcanela91&show_icons=true&theme=tokyonight)
+
+## 🌱 Actualmente aprendiendo
+- Desarrollo web con Streamlit
+- Automatización de procesos con Power Automate
+- MLOps y proyectos de ciencia de datos
+
+## 📬 Conéctate conmigo
+[![LinkedIn](<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/6759cf54-068b-426a-8957-06f7b8feb97a" />)
+
